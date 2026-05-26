@@ -36,3 +36,5 @@ opening your first pull request.
 We run a SmartPlatform internal AI assistant — drop questions about any of
 this codebase or the company docs into the chat and it will search the
 repo and the document library for you.
+
+This is an edit test
